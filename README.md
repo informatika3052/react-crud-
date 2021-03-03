@@ -21,12 +21,12 @@ Untuk fake API saya menggunakan file .json yang dijalankan menggunakan json-serv
 - untuk menginstall package yang diperlukan di code kita.
 
 - Didalam nya ada code yang ditugaskan untuk menghandle : 
-# GET DATA
-# POST DATA
-# UPDATE DATA
-# DELETE DATA
+## GET DATA
+## POST DATA
+## UPDATE DATA
+## DELETE DATA
 
-Di beberapa function ada yang saya beri komentar juga agar mudah dipahamai oelh yang membuka kode tersebut. 
+Di beberapa function ada yang saya beri komentar juga agar mudah dipahamai oleh yang membuka kode tersebut. 
 
 Semoga bermanfaat jika ada yang perlu ditanyakan langsung saja komen dibawah ya .wkwkwk
 
